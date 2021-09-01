@@ -1,6 +1,6 @@
 # notefire
 
-A new Flutter project.
+A new Flutter project that demonstrates integration of Flutter & Firebase by creating a realtime note taking app leveraging Firebase Firestore
 
 ## Getting Started
 
